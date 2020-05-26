@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import 'web_view_container.dart';  
   
 class Home extends StatelessWidget {  
-  final _links = ['http://sentaks.net/'];
+  final _links = ['your_link'];
 
   
   @override  
